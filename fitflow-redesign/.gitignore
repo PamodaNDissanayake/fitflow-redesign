@@ -1,0 +1,31 @@
+# JavaScript
+node_modules/
+dist/
+build/
+.expo/
+coverage/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*service-account*.json
+*serviceAccount*.json
+*.pem
+*.key
+
+# Private data
+private-data/
+research-recordings/
+
+# Local files
+.DS_Store
+Thumbs.db
+*.log
